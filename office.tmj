@@ -185,12 +185,6 @@
          "id":88,
          "name":"exittomarine",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/universit-c3-a9-lyon-2\/leslie-lw\/neurodiversity-by-marine"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
@@ -2402,6 +2396,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/@\/universit-c3-a9-lyon-2\/leslie-lw\/neurodiversity-by-marine"
                         }]
                 }],
          "tilewidth":32
