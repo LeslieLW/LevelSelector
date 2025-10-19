@@ -1105,7 +1105,7 @@
                  "y":0
                 }],
          "name":"floor",
-         "opacity":1,
+         "opacity":0.33,
          "type":"group",
          "visible":true,
          "x":0,
@@ -2380,15 +2380,6 @@
          "tilecount":12,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
                 {
                  "id":2,
                  "properties":[
