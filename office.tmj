@@ -2236,9 +2236,14 @@
          "name":"Atlas-Props-sheet3",
          "properties":[
                 {
+                 "name":"audioCopyright",
+                 "type":"string",
+                 "value":"Martin, H., & Tavitian, S. (2003).\nTh\u00e8me : Cour de r\u00e9cr\u00e9. Pour Code Lyoko \nMoonscoop \/ Antefilms Production \/ France 3."
+                }, 
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Raphael Matos - https:\/\/rafaelmatos.itch.io\/\nLimeZu  - https:\/\/limezu.itch.io\/\nPipoya - https:\/\/pipoya.itch.io\/\nCrush - https:\/\/opengameart.org\/content\/whispers-of-avalon-content\nGame Freak, & Nintendo. (1996\u20132020). Pok\u00e9mon [Video game series sprites and tilesets]\nNicnubill - https:\/\/www.deviantart.com\/nicnubill\nCainos - https:\/\/cainos.itch.io\/\nJetrel and Zabin - https:\/\/opengameart.org\/users\/zabin\nAyene - https:\/\/www.deviantart.com\/ayene-chan\/gallery"
+                 "value":"The visual atmosphere of this project was built using free pixel-art tilesets and assets. These include hand-selected creations from the workadventure, itchio, opengameart and  craftpix communities, as well as custom elements my group and I have designed to fit the whimsical, snoezelen-inspired environment of the Compass Caf\u00e9. \n\nSpecial thanks to: \n\nRaphael Matos - <a href=https:\/\/rafaelmatos.itch.io><\/a>\nLimeZu  - https:\/\/limezu.itch.io\/\nPipoya - https:\/\/pipoya.itch.io\/\nCrush - https:\/\/opengameart.org\/content\/whispers-of-avalon-content\nSulake Oy (Habbo) - https:\/\/www.habbo.com and https:\/\/habbofurni.com\/\nGame Freak, & Nintendo. (1996\u20132020). Pok\u00e9mon [Video game series sprites and tilesets]\nNicnubill - https:\/\/www.deviantart.com\/nicnubill\nCainos - https:\/\/cainos.itch.io\/\n0-mem0ry - https:\/\/0-mem0ry.itch.io\/\nJetrel and Zabin - https:\/\/opengameart.org\/users\/zabin\nZapaper - https:\/\/opengameart.org\/users\/zapaper\nAyene - https:\/\/www.deviantart.com\/ayene-chan\/gallery"
                 }],
          "spacing":0,
          "tilecount":1144,
