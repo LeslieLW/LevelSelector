@@ -2234,6 +2234,12 @@
          "imagewidth":1408,
          "margin":0,
          "name":"Atlas-Props-sheet3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Raphael Matos - https:\/\/rafaelmatos.itch.io\/\nLimeZu  - https:\/\/limezu.itch.io\/\nPipoya - https:\/\/pipoya.itch.io\/\nCrush - https:\/\/opengameart.org\/content\/whispers-of-avalon-content\nGame Freak, & Nintendo. (1996\u20132020). Pok\u00e9mon [Video game series sprites and tilesets]\nNicnubill - https:\/\/www.deviantart.com\/nicnubill\nCainos - https:\/\/cainos.itch.io\/\nJetrel and Zabin - https:\/\/opengameart.org\/users\/zabin\nAyene - https:\/\/www.deviantart.com\/ayene-chan\/gallery"
+                }],
          "spacing":0,
          "tilecount":1144,
          "tileheight":32,
